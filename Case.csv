@@ -1,0 +1,5 @@
+"Guid","AccountId","Comments","Description","IsEscalated","Origin","ParentId","Priority","Reason","Status","Subject","SuppliedCompany","SuppliedEmail","SuppliedName","SuppliedPhone","Type"
+6ee504ce-16dd-4a04-9e31-8ce3c6cdbe80,"#N/A","#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+74dadc78-b16e-44a4-918c-ef9a2d5228a1,4cd03cfe-9301-4cbe-b3d1-5e5d8dc5b587,"#N/A","#N/A",false,Phone,"#N/A",High,"#N/A",Escalated,Sample Case: Our Widgets have not been delivered.,"#N/A","#N/A","#N/A","#N/A","#N/A"
+b8d4caca-9092-4dcf-9b4b-aa8e4ff0d522,fcc4c150-573b-4050-ba17-8dcef2d4b6c4,"#N/A","#N/A",false,Phone,"#N/A",High,Instructions not clear,New,Sample Case 2: The widgets we received are the wrong size.,"#N/A","#N/A","#N/A","#N/A","#N/A"
+cffae284-de24-47e1-8a85-2106166ab204,fcc4c150-573b-4050-ba17-8dcef2d4b6c4,"#N/A","#N/A",false,Phone,"#N/A",Low,"#N/A",On Hold,Sample Case 3: Cannot track our order.,"#N/A","#N/A","#N/A","#N/A","#N/A"
